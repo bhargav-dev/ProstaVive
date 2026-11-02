@@ -1,0 +1,26 @@
+# ProstaVive
+
+> ProstaVive is a Men's Health / Prostate Support Supplement. ProstaVive is a natural, plant-based daily supplement formulated for men who want to support prostate health, healthy urinary flow and more restful sleep. Rather than a single isolated nutrient, it leans on a botanical and mineral blend traditionally used in men's prostate and bladder-comfort formulas. The product is sold in multi-bottle bundles, has drawn thousands of positive customer reviews, and is backed by a 60-day money-back guarantee so buyers can judge how it fits their own routine.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://prostavive.onrender.com/)
+- [What ProstaVive is](https://prostavive.onrender.com/what-is-product.html)
+- [How ProstaVive works](https://prostavive.onrender.com/how-it-works.html)
+- [ProstaVive ingredients, explained individually](https://prostavive.onrender.com/ingredients.html)
+- [ProstaVive benefits](https://prostavive.onrender.com/benefits.html)
+- [ProstaVive customer reviews](https://prostavive.onrender.com/reviews.html)
+- [ProstaVive frequently asked questions](https://prostavive.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying ProstaVive](https://prostavive.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at ProstaVive — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://prostavive.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using ProstaVive's own label as a real example of what to look for.
+- [ProstaVive: An Honest Review](https://prostavive.onrender.com/blog/prostavive-honest-review.html): An honest look at ProstaVive — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Saw Palmetto vs Pomegranate Extract: What Each Does In ProstaVive](https://prostavive.onrender.com/blog/saw-palmetto-vs-pomegranate-extract.html): Saw Palmetto and Pomegranate Extract are both in ProstaVive but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement ProstaVive](https://prostavive.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with ProstaVive as part of a men's health / prostate support routine.
+- [ProstaVive FAQ: Dosage, Timing, Who Should Skip It](https://prostavive.onrender.com/blog/prostavive-faq.html): Common questions about ProstaVive — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://prostavive.onrender.com/terms.html)
+- [Privacy Policy](https://prostavive.onrender.com/privacy-policy.html)
+- [Disclaimer](https://prostavive.onrender.com/disclaimer.html)
+- [Refund Policy](https://prostavive.onrender.com/refund-policy.html)
+- [About Us](https://prostavive.onrender.com/about.html)
+- [Contact Us](https://prostavive.onrender.com/contact.html)
